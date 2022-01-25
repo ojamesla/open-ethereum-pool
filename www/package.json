@@ -1,7 +1,7 @@
 {
   "name": "open-etc-pool",
   "version": "0.0.0",
-  "description": "Open ETH Pool",
+  "description": "Open ETC Pool",
   "private": true,
   "directories": {
     "doc": "doc",
